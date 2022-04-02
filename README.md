@@ -1,1 +1,1 @@
-# Drag-Drop-sortable-list
+# Drag & Drop sortable list project
